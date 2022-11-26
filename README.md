@@ -17,8 +17,6 @@
 ## **Решение**
 1. Вы находитесь в созданном репозитории `final-test`.
 2. Блок-схема алгоритма:
->  P.S. Для удобства проверки разных массивов в программе, я использовала `switch`, функции ввода/вывода в консоль.   
-Они не указаны в блок-схеме.
 
 > ![Block-diagram](Block_diagram.drawio.png)
 
@@ -104,6 +102,6 @@ void PrintArray(string[] array)
 
 > ![image answer in terminal](task_done.png)
 
-5. Скриншот коммитов для подтверждения.
+5. Скриншот коммитов:
 
 >![Screenshot of commits](Screenshot_1.png)
